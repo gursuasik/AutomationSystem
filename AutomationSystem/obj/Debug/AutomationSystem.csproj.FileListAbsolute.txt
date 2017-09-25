@@ -1,0 +1,5 @@
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\AutomationSystem\AutomationSystem\bin\AutomationSystem.dll
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\AutomationSystem\AutomationSystem\bin\AutomationSystem.pdb
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\AutomationSystem\AutomationSystem\obj\Debug\AutomationSystem.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\AutomationSystem\AutomationSystem\obj\Debug\AutomationSystem.dll
+D:\Documents\Works\Visual Studio\C#\Web\ASP.NET\AutomationSystem\AutomationSystem\obj\Debug\AutomationSystem.pdb
